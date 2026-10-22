@@ -1,0 +1,1 @@
+# 4786-aspnetcore-blazor-ProjetoInicial
